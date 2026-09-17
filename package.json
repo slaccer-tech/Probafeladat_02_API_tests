@@ -1,0 +1,12 @@
+{
+  "name": "reqres-api-tests",
+  "version": "1.0.0",
+  "description": "Automatizált Postman/Newman tesztek a reqres.in /api/users végponthoz",
+  "scripts": {
+    "test": "newman run collection.json --reporters cli"
+  },
+  "devDependencies": {
+    "newman": "^6.2.1"
+  },
+  "license": "MIT"
+}
