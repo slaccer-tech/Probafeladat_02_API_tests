@@ -10,6 +10,7 @@ adatot ad vissza, elfogadható válaszidővel.
 - **Eszköz:** Postman (Tests script) / Newman (CI)
 
 ## 3. Tesztkategóriák
+3 teszt helyett több tesztet írok 3 kategóriába sorolva: Adatstruktúra, Adatok helyessége és konzisztenciája, Teljesítmény.
 
 ### 3.1 Adatstruktúra (Schema validáció)
 | # | Ellenőrzés | Elvárt eredmény |
